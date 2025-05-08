@@ -1,6 +1,6 @@
 # Projet Laravel : Gestion des Animaux avec Authentification
 
-Ce projet est une application web développée avec **Laravel 11** pour gérer une liste d'animaux (CRUD) avec une authentification utilisateur. Il a été créé dans le cadre d'un apprentissage des bases de Laravel, en explorant les concepts clés du framework, la gestion des erreurs, et l'intégration de **Bootstrap 5** pour le design. Ce README résume les fonctionnalités du projet, les concepts appris, et les étapes pour l'exécuter.
+Ce projet est une application web développée avec **Laravel 12** pour gérer une liste d'animaux (CRUD) avec une authentification utilisateur. Il a été créé dans le cadre d'un apprentissage des bases de Laravel, en explorant les concepts clés du framework, la gestion des erreurs, et l'intégration de **Bootstrap 5** pour le design. Ce README résume les fonctionnalités du projet, les concepts appris, et les étapes pour l'exécuter.
 
 ## Description du projet
 
