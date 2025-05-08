@@ -12,6 +12,7 @@ L'application permet de gérer des animaux (nom, espèce, propriétaire, état d
   - Validation des identifiants et gestion des erreurs (identifiants incorrects).
   - Redirection vers la liste des animaux après une connexion réussie.
   - Protection des routes du CRUD avec le middleware `auth`.
+  - **mot de passe** : secret
 - **CRUD pour les animaux** :
   - **Lister** : Afficher tous les animaux avec pagination (10 par page).
   - **Voir** : Consulter les détails d'un animal.
